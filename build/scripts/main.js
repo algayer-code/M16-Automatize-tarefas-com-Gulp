@@ -1,0 +1,1 @@
+function cumprimentar(o){console.log("Olá, "+o+"!")}cumprimentar("João");
